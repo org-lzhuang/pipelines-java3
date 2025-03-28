@@ -4,6 +4,7 @@ metadata:
   name: pipelines-java3
   annotations:
     dev.azure.com/project-repo: lucarval-hello-world/org-lzhuang.pipelines-java3
+    dev.azure.com/build-definition: Test
     dev.azure.com/project: lucarval-hello-world
 spec:
   type: service
